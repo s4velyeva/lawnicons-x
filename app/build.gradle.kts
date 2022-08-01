@@ -10,7 +10,7 @@ android {
     compileSdk = 32
 
     defaultConfig {
-        applicationId = "app.lawnchair.lawnicons"
+        applicationId = "app.lawnchair.lawnicons.xtended"
         minSdk = 26
         targetSdk = 31
         versionCode = 1
