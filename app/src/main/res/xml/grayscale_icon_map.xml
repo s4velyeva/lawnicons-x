@@ -590,4 +590,39 @@
     <icon drawable="@drawable/ytstudio" package="com.google.android.apps.youtube.creator" name="YouTube Studio" />
     <icon drawable="@drawable/zarchiver" package="ru.zdevs.zarchiver" name="ZArchiver" />
     <icon drawable="@drawable/zoom" package="us.zoom.videomeetings" name="Zoom" />
+    <icon drawable="@drawable/ic_cdek" package="com.logistic.sdek" name="CDEK" />
+    <icon drawable="@drawable/scanner" package="com.xiaomi.scanner" name="Scaner" />
+    <icon drawable="@drawable/yolla" package="com.yollacalls" name="Yolla" />
+    <icon drawable="@drawable/droid_ify" package="com.looker.droidify" name="Droid_IFY" />
+    <icon drawable="@drawable/megafon" package="ru.megafon.mlk" name="Megafon" />
+    <icon drawable="@drawable/memoria" package="com.memoria.photos.gallery" name="Memoria" />
+    <icon drawable="@drawable/mirpay" package="ru.nspk.mirpay" name="MIRPay" />
+    <icon drawable="@drawable/ozon" package="ru.ozon.app.android" name="OZON" />
+    <icon drawable="@drawable/sber" package="ru.sberbankmobile" name="SberBank" />
+    <icon drawable="@drawable/sd_maid" package="eu.thedarken.sdm" name="SDMaid" />
+    <icon drawable="@drawable/sensor_box" package="com.JindoBlu.Antistress" name="AntistressGaes" />
+    <icon drawable="@drawable/stocard" package="de.stocard.stocard" name="Stocard" />
+    <icon drawable="@drawable/tinkoff" package="com.idamob.tinkoff.android" name="Tinkoff" />
+    <icon drawable="@drawable/yandex_navigator" package="ru.yandex.yandexnavi" name="Yandex Navigator" />
+    <icon drawable="@drawable/kiwi_browser" package="com.kiwibrowser.browser" name="Kiwi Browser" />
+    <icon drawable="@drawable/duolingo" package="com.duolingo" name="Duolingo" />
+    <icon drawable="@drawable/strelka" package="com.ivolk.StrelkaGPS" name="Strelka" />
+    <icon drawable="@drawable/lawnicons" package="app.lawnchair.lawnicons" name="Lawnicons" />
+    <icon drawable="@drawable/apk_editor" package="com.gmail.heagoo.apkeditor.pro" name="APK Editor" />
+    <icon drawable="@drawable/video" package="com.coloros.video" name="Video Player" />
+    <icon drawable="@drawable/compass" package="com.coloros.compass2" name="Compass" />
+    <icon drawable="@drawable/gallery" package="com.coloros.gallery3d" name="Gallery" />
+    <icon drawable="@drawable/sound_recorder" package="com.coloros.soundrecorder" name="Sound Recorder" />
+    <icon drawable="@drawable/libreoffice" package="com.collabora.libreoffice" name="Libre Office" />
+    <icon drawable="@drawable/vpn_hood" package="com.vpnhood.client.android" name="VPN Hood Client" />
+    <icon drawable="@drawable/kinemasterfree" package="com.nexstreaming.app.kinemasterfree" name="Kine Master" />
+    <icon drawable="@drawable/jankfood_seal" package="com.junkfood.seal" name="Junk Food Seal" />
+    <icon drawable="@drawable/weather_m8" package="pro.burgerz.miweather8" name="Weather M8" />
+    <icon drawable="@drawable/scanner" package="com.teacapps.barcodescanner" name="Barcode Scanner" />
+    <icon drawable="@drawable/wallpaper_style" package="com.google.android.apps.wallpaper" name="Wallpaper Style" />
+    <icon drawable="@drawable/weather_m8" package="com.coloros.weather2" name="Weather" />
+    <icon drawable="@drawable/fmradio" package="com.caf.fmradio" name="FM Radio" />
+    <icon drawable="@drawable/sim" package="com.android.stk" name="STK" />
+    <icon drawable="@drawable/bugreport" package="com.miui.bugreport" name="Bugreport" />
+    <icon drawable="@drawable/anixartd" package="com.swiftsoft.anixartd" name="Anixartd" />
 </icons>

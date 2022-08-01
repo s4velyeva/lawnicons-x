@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="192"
+   height="192"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="sound_recorder.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="namedview8"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.5104167"
+     inkscape:cx="95.80083"
+     inkscape:cy="96"
+     inkscape:window-width="1366"
+     inkscape:window-height="688"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <g
+     id="g849"
+     transform="matrix(0.96243008,0,0,0.96551954,38.11271,20.550388)">
+    <path
+       style="color:#000000;fill:#000000;fill-rule:evenodd;-inkscape-stroke:none"
+       d="m 60.146484,-4.7128906 c -22.062607,0 -40.001953,17.9393456 -40.001953,40.0019526 v 45.716797 c 0,22.062611 17.939346,40.003911 40.001953,40.003911 22.062608,0 40.003906,-17.9413 40.003906,-40.003911 V 35.289062 c 0,-22.062607 -17.941298,-40.0019526 -40.003906,-40.0019526 z m 0,11.4277343 c 15.928638,0 28.574219,12.6455803 28.574219,28.5742183 v 45.716797 c 0,15.928638 -12.645581,28.574221 -28.574219,28.574221 -15.928638,0 -28.572265,-12.645583 -28.572265,-28.574221 V 35.289062 c 0,-15.928638 12.643627,-28.5742183 28.572265,-28.5742183 z"
+       id="rect2" />
+    <path
+       d="M 8.7146939,58.147939 C 5.5487535,58.147939 3,60.696692 3,63.862633 v 17.144081 c 0,29.716406 22.481606,54.003856 51.432245,56.861206 v 11.70369 H 31.57347 a 5.714695,5.714695 0 1 0 0,11.42939 h 57.146939 a 5.714695,5.714695 0 1 0 0,-11.42939 H 65.861633 V 137.85649 A 57.009787,57.009787 0 0 0 117.29388,80.995285 V 63.851203 a 5.714695,5.714695 0 1 0 -11.42939,0 v 17.144082 c 0,25.327525 -20.390027,45.717555 -45.717551,45.717555 -25.327523,0 -45.717551,-20.39003 -45.717551,-45.717555 V 63.851203 c 0,-3.16594 -2.548754,-5.714694 -5.7146941,-5.714694 z"
+       fill="#dedede"
+       fill-rule="evenodd"
+       id="path4"
+       style="fill:#000000;stroke-width:11.4294" />
+  </g>
+</svg>
