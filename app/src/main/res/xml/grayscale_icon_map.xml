@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="utf-8"?>
 <icons>
-    <icon drawable="@drawable/a12_extensions" package="dev.kdrag0n.android12ext" name="Android 12 Extensions" />
-    <icon drawable="@drawable/accubattery" package="com.digibites.accubattery" name="AccuBattery" />
-    <icon drawable="@drawable/aegis_authenticator" package="com.beemdevelopment.aegis" name="Aegis Authenticator" />
-    <icon drawable="@drawable/aida64" package="com.finalwire.aida64" name="AIDA64" />
-    <icon drawable="@drawable/amazon_alexa" package="com.amazon.dee.app" name="Amazon Alexa" />
-    <icon drawable="@drawable/amazon_music" package="com.amazon.mp3" name="Amazon Music" />
-    <icon drawable="@drawable/amazon_prime_video" package="com.amazon.avod.thirdpartyclient" name="Amazon Prime Video" />
-    <icon drawable="@drawable/amazon_shopping" package="com.amazon.mShop.android.shopping" name="Amazon Shopping" />
-    <icon drawable="@drawable/amazon_shopping" package="in.amazon.mShop.android.shopping" name="Amazon Shopping" />
-    <icon drawable="@drawable/amdroid" package="com.amdroidalarmclock.amdroid" name="AMdroid" />
-    <icon drawable="@drawable/among_us" package="com.innersloth.spacemafia" name="Among Us" />
-    <icon drawable="@drawable/android_auto" package="com.google.android.projection.gearhead" name="Android Auto" />
-    <icon drawable="@drawable/antutu" package="com.antutu.ABenchMark" name="AnTuTu Benchmark" />
-    <icon drawable="@drawable/apkmirror_installer" package="com.apkmirror.helper.prod" name="APKMirror Installer" />
-    <icon drawable="@drawable/app_manager" package="io.github.muntashirakon.AppManager" name="App Manager" />
-    <icon drawable="@drawable/apple_music" package="com.apple.android.music" name="Apple Music" />
-    <icon drawable="@drawable/application_inspector" package="com.ubqsoft.sec01" name="Application Inspector" />
-    <icon drawable="@drawable/asana" package="com.asana.app" name="Asana" />
-    <icon drawable="@drawable/audiofx" package="org.lineageos.audiofx" name="AudioFX" />
-    <icon drawable="@drawable/aurora_droid" package="com.aurora.adroid" name="Aurora Droid" />
-    <icon drawable="@drawable/aurora_store" package="com.aurora.store" name="Aurora Store" />
-    <icon drawable="@drawable/authy" package="com.authy.authy" name="Authy" />
-    <icon drawable="@drawable/auxio" package="org.oxycblt.auxio" name="Auxio" />
-    <icon drawable="@drawable/aves_gallery" package="deckers.thibault.aves" name="Aves Gallery" />
-    <icon drawable="@drawable/axisnet" package="com.axis.net" name="AXISnet" />
-    <icon drawable="@drawable/babbel" package="com.babbel.mobile.android.en" name="Babbel" />
-    <icon drawable="@drawable/bank_jago" package="com.jago.digitalbanking" name="Jago" />
-    <icon drawable="@drawable/bca_mobile" package="com.bca" name="BCA Mobile" />
-    <icon drawable="@drawable/bgram" package="org.telegram.BifToGram" name="BGram" />
-    <icon drawable="@drawable/bima_plus" package="com.linkit.bimatri" name="Bima+" />
-    <icon drawable="@drawable/binance" package="com.binance.dev" name="Binance" />
-    <icon drawable="@drawable/bitwarden" package="com.x8bit.bitwarden" name="Bitwarden" />
-    <icon drawable="@drawable/blokada" package="org.blokada.alarm.dnschanger" name="Blokada" />
-    <icon drawable="@drawable/blokada" package="org.blokada.fem.fdroid" name="Blokada" />
-    <icon drawable="@drawable/bni_mobile" package="src.com.bni" name="BNI Mobile Banking" />
-    <icon drawable="@drawable/boom_and_megaboom" package="com.logitech.ueboom" name="BOOM &amp; MEGABOOM" />
-    <icon drawable="@drawable/boost_for_reddit" package="com.rubenmayayo.reddit" name="Boost for Reddit" />
-    <icon drawable="@drawable/bose_music" package="com.bose.bosemusic" name="Bose Music" />
-    <icon drawable="@drawable/brave_browser" package="com.brave.browser" name="Brave Browser" />
-    <icon drawable="@drawable/brawl_stars" package="com.supercell.brawlstars" name="Brawl Stars" />
-    <icon drawable="@drawable/bri_mobile" package="id.co.bri.brimo" name="BRImo" />
-    <icon drawable="@drawable/bromite" package="org.bromite.bromite" name="Bromite" />
-    <icon drawable="@drawable/browsec" package="com.browsec.vpn.proxy" name="BROWSEC" />
-    <icon drawable="@drawable/browsec" package="com.browsec.vpn" name="BROWSEC" />
-    <icon drawable="@drawable/browser" package="de.baumann.browser" name="Browser" />
-    <icon drawable="@drawable/browser" package="org.droidtr.jelly" name="Browser" />
-    <icon drawable="@drawable/browser" package="org.lineageos.jelly" name="Browser" />
-    <icon drawable="@drawable/bukalapak" package="com.bukalapak.android" name="Bukalapak" />
-    <icon drawable="@drawable/bundle" package="com.dwarfplanet.bundle" name="Bundle" />
-    <icon drawable="@drawable/burger_king" package="burgerking.id.android" name="Burger King" />
-    <icon drawable="@drawable/burger_king" package="com.bk.ch" name="Burger King" />
-    <icon drawable="@drawable/burger_king" package="com.burgerking.kingfinder" name="Burger King" />
-    <icon drawable="@drawable/burger_king" package="com.burgerking.turk" name="Burger King" />
-    <icon drawable="@drawable/burger_king" package="com.burgerkingcz" name="Burger King" />
-    <icon drawable="@drawable/burger_king" package="com.burgerkingpl" name="Burger King" />
-    <icon drawable="@drawable/burger_king" package="com.burgerkingqatar.android" name="Burger King" />
+    <icon drawable="@drawable/a12_extensions"           package="dev.kdrag0n.android12ext" name="Android 12 Extensions" />
+    <icon drawable="@drawable/accubattery"              package="com.digibites.accubattery" name="AccuBattery" />
+    <icon drawable="@drawable/aegis_authenticator"      package="com.beemdevelopment.aegis" name="Aegis Authenticator" />
+    <icon drawable="@drawable/aida64"                   package="com.finalwire.aida64" name="AIDA64" />
+    <icon drawable="@drawable/amazon_alexa"             package="com.amazon.dee.app" name="Amazon Alexa" />
+    <icon drawable="@drawable/amazon_music"             package="com.amazon.mp3" name="Amazon Music" />
+    <icon drawable="@drawable/amazon_prime_video"       package="com.amazon.avod.thirdpartyclient" name="Amazon Prime Video" />
+    <icon drawable="@drawable/amazon_shopping"          package="com.amazon.mShop.android.shopping" name="Amazon Shopping" />
+    <icon drawable="@drawable/amazon_shopping"          package="in.amazon.mShop.android.shopping" name="Amazon Shopping" />
+    <icon drawable="@drawable/amdroid"                  package="com.amdroidalarmclock.amdroid" name="AMdroid" />
+    <icon drawable="@drawable/among_us"                 package="com.innersloth.spacemafia" name="Among Us" />
+    <icon drawable="@drawable/android_auto"             package="com.google.android.projection.gearhead" name="Android Auto" />
+    <icon drawable="@drawable/antutu"                   package="com.antutu.ABenchMark" name="AnTuTu Benchmark" />
+    <icon drawable="@drawable/apkmirror_installer"      package="com.apkmirror.helper.prod" name="APKMirror Installer" />
+    <icon drawable="@drawable/app_manager"              package="io.github.muntashirakon.AppManager" name="App Manager" />
+    <icon drawable="@drawable/apple_music"              package="com.apple.android.music" name="Apple Music" />
+    <icon drawable="@drawable/application_inspector"    package="com.ubqsoft.sec01" name="Application Inspector" />
+    <icon drawable="@drawable/asana"                    package="com.asana.app" name="Asana" />
+    <icon drawable="@drawable/audiofx"                  package="org.lineageos.audiofx" name="AudioFX" />
+    <icon drawable="@drawable/aurora_droid"             package="com.aurora.adroid" name="Aurora Droid" />
+    <icon drawable="@drawable/aurora_store"             package="com.aurora.store" name="Aurora Store" />
+    <icon drawable="@drawable/authy"                    package="com.authy.authy" name="Authy" />
+    <icon drawable="@drawable/auxio"                    package="org.oxycblt.auxio" name="Auxio" />
+    <icon drawable="@drawable/aves_gallery"             package="deckers.thibault.aves" name="Aves Gallery" />
+    <icon drawable="@drawable/axisnet"                  package="com.axis.net" name="AXISnet" />
+    <icon drawable="@drawable/babbel"                   package="com.babbel.mobile.android.en" name="Babbel" />
+    <icon drawable="@drawable/bank_jago"                package="com.jago.digitalbanking" name="Jago" />
+    <icon drawable="@drawable/bca_mobile"               package="com.bca" name="BCA Mobile" />
+    <icon drawable="@drawable/bgram"                    package="org.telegram.BifToGram" name="BGram" />
+    <icon drawable="@drawable/bima_plus"                package="com.linkit.bimatri" name="Bima+" />
+    <icon drawable="@drawable/binance"                  package="com.binance.dev" name="Binance" />
+    <icon drawable="@drawable/bitwarden"                package="com.x8bit.bitwarden" name="Bitwarden" />
+    <icon drawable="@drawable/blokada"                  package="org.blokada.alarm.dnschanger" name="Blokada" />
+    <icon drawable="@drawable/blokada"                  package="org.blokada.fem.fdroid" name="Blokada" />
+    <icon drawable="@drawable/bni_mobile"               package="src.com.bni" name="BNI Mobile Banking" />
+    <icon drawable="@drawable/boom_and_megaboom"        package="com.logitech.ueboom" name="BOOM &amp; MEGABOOM" />
+    <icon drawable="@drawable/boost_for_reddit"         package="com.rubenmayayo.reddit" name="Boost for Reddit" />
+    <icon drawable="@drawable/bose_music"               package="com.bose.bosemusic" name="Bose Music" />
+    <icon drawable="@drawable/brave_browser"            package="com.brave.browser" name="Brave Browser" />
+    <icon drawable="@drawable/brawl_stars"              package="com.supercell.brawlstars" name="Brawl Stars" />
+    <icon drawable="@drawable/bri_mobile"               package="id.co.bri.brimo" name="BRImo" />
+    <icon drawable="@drawable/bromite"                  package="org.bromite.bromite" name="Bromite" />
+    <icon drawable="@drawable/browsec"                  package="com.browsec.vpn.proxy" name="BROWSEC" />
+    <icon drawable="@drawable/browsec"                  package="com.browsec.vpn" name="BROWSEC" />
+    <icon drawable="@drawable/browser"                  package="de.baumann.browser" name="Browser" />
+    <icon drawable="@drawable/browser"                  package="org.droidtr.jelly" name="Browser" />
+    <icon drawable="@drawable/browser"                  package="org.lineageos.jelly" name="Browser" />
+    <icon drawable="@drawable/bukalapak"                package="com.bukalapak.android" name="Bukalapak" />
+    <icon drawable="@drawable/bundle"                   package="com.dwarfplanet.bundle" name="Bundle" />
+    <icon drawable="@drawable/burger_king"              package="burgerking.id.android" name="Burger King" />
+    <icon drawable="@drawable/burger_king"              package="com.bk.ch" name="Burger King" />
+    <icon drawable="@drawable/burger_king"              package="com.burgerking.kingfinder" name="Burger King" />
+    <icon drawable="@drawable/burger_king"              package="com.burgerking.turk" name="Burger King" />
+    <icon drawable="@drawable/burger_king"              package="com.burgerkingcz" name="Burger King" />
+    <icon drawable="@drawable/burger_king"              package="com.burgerkingpl" name="Burger King" />
+    <icon drawable="@drawable/burger_king"              package="com.burgerkingqatar.android" name="Burger King" />
     <icon drawable="@drawable/burger_king" package="com.dom.burgerking" name="Burger King" />
     <icon drawable="@drawable/burger_king" package="com.emn8.mobilem8.nativeapp.bk" name="Burger King" />
     <icon drawable="@drawable/burger_king" package="com.expremio.burgerking" name="Burger King" />
@@ -608,15 +608,16 @@
     <icon drawable="@drawable/duolingo" package="com.duolingo" name="Duolingo" />
     <icon drawable="@drawable/strelka" package="com.ivolk.StrelkaGPS" name="Strelka" />
     <icon drawable="@drawable/lawnicons" package="app.lawnchair.lawnicons" name="Lawnicons" />
+    <icon drawable="@drawable/lawnicons_x" package="app.lawnchair.lawnicons.xtended" name="Lawnicons"/> 
     <icon drawable="@drawable/apk_editor" package="com.gmail.heagoo.apkeditor.pro" name="APK Editor" />
     <icon drawable="@drawable/video" package="com.coloros.video" name="Video Player" />
     <icon drawable="@drawable/compass" package="com.coloros.compass2" name="Compass" />
     <icon drawable="@drawable/gallery" package="com.coloros.gallery3d" name="Gallery" />
     <icon drawable="@drawable/sound_recorder" package="com.coloros.soundrecorder" name="Sound Recorder" />
-    <icon drawable="@drawable/libreoffice" package="com.collabora.libreoffice" name="Libre Office" />
-    <icon drawable="@drawable/vpn_hood" package="com.vpnhood.client.android" name="VPN Hood Client" />
+    <icon drawable="@drawable/libreoffice" package="com.collabora.libreoffice" name="Collabora Office" />
+    <icon drawable="@drawable/vpn_hood" package="com.vpnhood.client.android" name="VPN Hood" />
     <icon drawable="@drawable/kinemasterfree" package="com.nexstreaming.app.kinemasterfree" name="Kine Master" />
-    <icon drawable="@drawable/jankfood_seal" package="com.junkfood.seal" name="Junk Food Seal" />
+    <icon drawable="@drawable/junkfood_seal" package="com.junkfood.seal" name="Seal" />
     <icon drawable="@drawable/weather_m8" package="pro.burgerz.miweather8" name="Weather M8" />
     <icon drawable="@drawable/scanner" package="com.teacapps.barcodescanner" name="Barcode Scanner" />
     <icon drawable="@drawable/wallpaper_style" package="com.google.android.apps.wallpaper" name="Wallpaper Style" />
@@ -624,5 +625,5 @@
     <icon drawable="@drawable/fmradio" package="com.caf.fmradio" name="FM Radio" />
     <icon drawable="@drawable/sim" package="com.android.stk" name="STK" />
     <icon drawable="@drawable/bugreport" package="com.miui.bugreport" name="Bugreport" />
-    <icon drawable="@drawable/anixartd" package="com.swiftsoft.anixartd" name="Anixartd" />
+    <icon drawable="@drawable/anixartd" package="com.swiftsoft.anixartd" name="Anixart" />
 </icons>
